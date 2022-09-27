@@ -3,7 +3,7 @@
 #### ? about me
 - interests: offsec, coding, reverse engineering
 - langs: c/c++, c#, golang, php, python, bash, lua
-- learning: powershell
+- learning: duckyscript
 
 #### ! socials
 - discord: tekish#1000
