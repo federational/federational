@@ -7,4 +7,4 @@
 
 #### ! socials
 - discord: tekish#1000
-- instagram: @federational
+- instagram: @hexalogical
