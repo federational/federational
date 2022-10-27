@@ -6,5 +6,5 @@
 - learning: duckyscript
 
 #### ! socials
-- discord: tekish#8592
+- discord: tekish#1000
 - instagram: @hexalogical
