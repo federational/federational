@@ -1,4 +1,4 @@
-> current project: terrorware
+> current project: mercy
 
 #### ? about me
 - interests: offsec, coding, reverse engineering
