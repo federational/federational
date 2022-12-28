@@ -1,4 +1,4 @@
-> current project: mercy & terrorware
+> current project: mercy
 
 #### ? about me
 - interests: offsec, coding, reverse engineering
@@ -6,5 +6,5 @@
 - learning: duckyscript
 
 #### ! socials
-- discord: tekish#1000
+- discord: tekish#2007
 - instagram: @hexalogical
