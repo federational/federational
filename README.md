@@ -7,4 +7,3 @@
 
 #### ! socials
 - discord: tekish#2007
-- instagram: @hexalogical
