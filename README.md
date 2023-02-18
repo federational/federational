@@ -1,10 +1,10 @@
-> current project: mercy
+> current project: benadryl
 
 #### ? about me
 - interests: offsec, coding, reverse engineering
 - langs: c/c++, c#, golang, php, python, bash, lua
-- learning: kotlin, powershell
+- learning: powershell, web pentesting
 
 #### ! socials
-- discord: tekish#2007
+- discord: codeine#1814
 - youtube.com/@federational
