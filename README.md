@@ -7,4 +7,5 @@
 
 #### ! socials
 - discord: codeine#1814
-- youtube.com/@federational
+- telegram: federational
+- cracked.io: benadryl
