@@ -1,8 +1,8 @@
 > current project: benadryl
 
 #### ? about me
-- interests: offsec, coding, reverse engineering
 - langs: c/c++, c#, golang, php, python, bash, lua
+- interests: offsec, coding, reverse engineering
 - learning: powershell, web pentesting
 
 #### ! socials
