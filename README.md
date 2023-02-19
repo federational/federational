@@ -7,6 +7,6 @@
 
 #### ! socials
 - discord: codeine#1814
-- cracked: [benadryl](https://cracked.io/benadryl)
 - telegram: [federational](https://t.me/federational)
+- cracked: [benadryl](https://cracked.io/benadryl)
 - web: [suicide.pub](https://suicide.pub)
