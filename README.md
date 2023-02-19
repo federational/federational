@@ -9,4 +9,4 @@
 - discord: codeine#1814
 - cracked: [benadryl](https://cracked.io/benadryl)
 - telegram: [federational](https://t.me/federational)
-- [suicide.pub](https://suicide.pub)
+- web: [suicide.pub](https://suicide.pub)
